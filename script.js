@@ -25,7 +25,5 @@ function clickListener(event) {
     console.log('email:', emailText, 'message:', messageText);
 }
 
-let submitButton = document.querySelector('#submit-button')
-
 submitButton.addEventListener('click', clickListener);
 
