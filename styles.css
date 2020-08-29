@@ -74,6 +74,8 @@ p {
 }
 
 .project-image{
+  height: 300px;
+  width: 300px;
   justify-self: center;
   padding: 4%;
 }
